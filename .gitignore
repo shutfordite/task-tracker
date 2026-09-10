@@ -3,4 +3,6 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
-.idea/workspace.xmlB
+# JetBrains Rider project settings
+.idea/
+*.user
